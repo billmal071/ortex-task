@@ -23,6 +23,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### `npm run dev`
 
 Launches the the app as a local webpage
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ### About
 Ortex task for frontend developer application
